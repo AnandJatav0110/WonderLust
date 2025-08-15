@@ -1,4 +1,4 @@
-# 🏡 Wonderlust – Airbnb Clone
+# 🏡 Wonderlust
 
 Wonderlust is a **MERN stack** application that allows users to search, filter, and book properties, while property owners can list and manage their rentals.  
 Inspired by Airbnb, it offers a smooth, responsive, and interactive experience for travelers and hosts alike.
@@ -76,3 +76,17 @@ Inspired by Airbnb, it offers a smooth, responsive, and interactive experience f
 ---
 
 ## 📂 Project Structure
+
+- below are some screenshots for refrence
+
+  <img width="1366" height="768" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/b7afaf81-2cf3-4582-a64f-cc5d93e490b2" />
+
+<img width="1366" height="768" alt="Screenshot (24)" src="https://github.com/user-attachments/assets/fe5a97fe-da66-4948-824c-82bdfbe6d73e" />
+
+<img width="1366" height="768" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/eef83cef-cf62-4090-a124-aaf1331a0c12" />
+
+<img width="1366" height="768" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/8b9ecf08-6a05-4f56-869d-f9ce693c8b94" />
+
+
+
+
